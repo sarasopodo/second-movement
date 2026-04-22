@@ -41,6 +41,7 @@
 #include "temperature_display_face.h"
 #include "temperature_logging_face.h"
 #include "activity_logging_face.h"
+#include "solstice_face.h"
 #include "voltage_face.h"
 #include "set_time_face.h"
 #include "settings_face.h"
